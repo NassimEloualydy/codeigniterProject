@@ -1,0 +1,16 @@
+BASE DE DONNER
+RDV(id,date,heure,id_patient,,typerdv);
+visite(id ,date,typevisite,idRDV)
+changer les idr de patient par idr de visite 
+Menu ( Patient & RDV +Visite & ordonnace + )
+pour chaque RDV contient un staus (Rouge: le patient est présent (dans la salle d'attente)
+Vert: le patient est dans le fauteuil
+Bleu: les traitements sont introduits et la visite peut être réglée
+Gris: achevé)
+le menu de medcin =>
+((Bare de Recherche RDV + List RDV(plut buutons (affecter un visite => (Menu(Visite & ordonnace)))) + Formulaire RDV+
+  Bare de recherche + Liste des Patient (Cart) + 
+)
+- Home (Liste des RDV-Gestion RDV)
+- (Gestion Patient et gestion visite)
+- (Ordonnance )
